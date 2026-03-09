@@ -16,22 +16,24 @@
 
 ## 课程大纲
 
-### 第一学期：AI基础入门（12节课）
+### 第一学期：AI实践入门（12节课）
 
-| 课次 | 主题 | 时长 |
-|------|------|------|
-| 01 | [什么是人工智能？](lessons/semester-1/lesson-01/README.md) | 45分钟 |
-| 02 | 机器是怎么学习的？ | 50分钟 |
-| 03 | 模式识别小游戏 | 40分钟 |
-| 04 | 机器能看到什么？ | 50分钟 |
-| 05 | 机器能听懂什么？ | 50分钟 |
-| 06 | 决策树小游戏 | 40分钟 |
-| 07 | 机器人朋友 | 45分钟 |
-| 08 | AI艺术创作 | 60分钟 |
-| 09 | AI游戏体验 | 60分钟 |
-| 10 | AI与道德 | 40分钟 |
-| 11 | 我的第一个AI项目 | 60分钟 |
-| 12 | 学期总结与展望 | 40分钟 |
+每节课都以实际操作当前热门AI应用为主，让Yanny亲身体验AI的神奇！
+
+| 课次 | 主题 | 实践工具 | 时长 |
+|------|------|----------|------|
+| 01 | [认识ChatGPT：会聊天的AI](lessons/semester-1/lesson-01/README.md) | ChatGPT / 豆包 | 50分钟 |
+| 02 | 文生图：AI画出我的梦想 | DALL-E / Midjourney | 60分钟 |
+| 03 | AI语音聊天：和AI说说话 | 语音助手 / ChatGPT语音版 | 45分钟 |
+| 04 | 文生视频：让故事动起来 | SoRA / Runway / Pika | 60分钟 |
+| 05 | AI写作业助手 | ChatGPT / Claude | 50分钟 |
+| 06 | AI讲故事：我的专属作家 | ChatGPT / 豆包 | 50分钟 |
+| 07 | AI音乐创作 | Suno / Udio | 50分钟 |
+| 08 | AI画图工具：文生图进阶 | Stable Diffusion / MJ | 60分钟 |
+| 09 | ClaudeCode：AI编程助手 | Claude Code | 60分钟 |
+| 10 | AI视频剪辑：智能剪辑 | 剪映AI / CapCut | 50分钟 |
+| 11 | 我的AI创意作品集 | 综合运用 | 60分钟 |
+| 12 | 学期作品展示与总结 | 所有工具 | 40分钟 |
 
 ## 课程结构
 
@@ -81,11 +83,36 @@
 
 ## 推荐工具
 
-### 在线体验
+### AI对话与写作
+- [ChatGPT](https://chat.openai.com/) - OpenAI的智能对话助手
+- [Claude](https://claude.ai/) - Anthropic的AI助手
+- [豆包](https://www.doubao.com/) - 字节跳动的AI助手
+- [Kimi](https://kimi.moonshot.cn/) - 月之暗面的AI助手
 
+### AI绘画与创作
+- [DALL-E](https://openai.com/dall-e-3) - OpenAI文生图
+- [Midjourney](https://www.midjourney.com/) - 高质量AI绘画
+- [Stable Diffusion](https://stability.ai/) - 开源文生图
+- [Canva AI](https://www.canva.com/) - AI设计工具
+
+### AI视频制作
+- [SoRA](https://openai.com/sora) - OpenAI文生视频
+- [Runway](https://runwayml.com/) - AI视频生成与编辑
+- [Pika](https://pika.art/) - AI视频生成
+- [剪映AI](https://www.capcut.cn/) - 智能视频剪辑
+
+### AI语音与音乐
+- [Suno](https://suno.com/) - AI音乐创作
+- [Udio](https://www.udio.com/) - AI音乐生成
+- [ElevenLabs](https://elevenlabs.io/) - AI语音合成
+
+### AI编程助手
+- [Claude Code](https://claude.ai/) - AI编程助手
+- [GitHub Copilot](https://github.com/features/copilot) - 代码补全
+
+### 传统学习工具
 - [Google Teachable Machine](https://teachablemachine.withgoogle.com/) - 无代码机器学习
 - [Scratch](https://scratch.mit.edu/) - 图形化编程
-- [Machine Learning for Kids](https://machinelearningforkids.co.uk/) - 适合儿童的AI实验
 
 ### 绘图工具
 
