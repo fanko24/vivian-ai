@@ -307,9 +307,9 @@ A: 换一个描述就好，不用太在意
 
 ## 工具链接
 
-- **豆包画图**: https://www.doubao.com/ (点击"画图")
+- **豆包画图**: https://www.doubao.com/ (点击"画图") - 推荐首选
+- **ChatGPT (DALL-E)**: https://chat.openai.com/ - 推荐首选
 - **文心一格**: https://yige.baidu.com/
-- **DALL-E**: https://openai.com/dall-e-3
 - **Midjourney**: https://www.midjourney.com/
 
 ---

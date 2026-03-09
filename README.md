@@ -39,14 +39,14 @@
 
 | 课次 | 主题 | 实践工具 | 时长 |
 |------|------|----------|------|
-| 01 | [认识ChatGPT：会聊天的AI](lessons/semester-1/lesson-01/README.md) | 豆包 / Kimi | 50分钟 |
-| 02 | 文生图：AI画出我的梦想 | 豆包画图 / 文心一格 | 60分钟 |
+| 01 | [认识ChatGPT：会聊天的AI](lessons/semester-1/lesson-01/README.md) | 豆包 / ChatGPT | 50分钟 |
+| 02 | 文生图：AI画出我的梦想 | 豆包画图 / ChatGPT (DALL-E) | 60分钟 |
 | 03 | AI语音聊天：和AI说说话 | 智能音箱 / 豆包语音 | 45分钟 |
 | 04 | 文生视频：让故事动起来 | 剪映AI / 可灵AI | 60分钟 |
-| 05 | AI写作业助手 | 豆包 / Kimi | 50分钟 |
-| 06 | AI讲故事：我的专属作家 | 豆包 / Kimi | 50分钟 |
+| 05 | AI写作业助手 | 豆包 / ChatGPT | 50分钟 |
+| 06 | AI讲故事：我的专属作家 | 豆包 / ChatGPT | 50分钟 |
 | 07 | AI音乐创作 | Suno | 50分钟 |
-| 08 | AI画图工具：文生图进阶 | 豆包画图 / 文心一格 | 60分钟 |
+| 08 | AI画图工具：文生图进阶 | 豆包画图 / ChatGPT (DALL-E) | 60分钟 |
 | 09 | ClaudeCode：AI编程助手 | Claude Code | 60分钟 |
 | 10 | AI视频剪辑：智能剪辑 | 剪映AI / CapCut | 50分钟 |
 | 11 | 我的AI创意作品集 | 综合运用 | 60分钟 |
@@ -100,23 +100,23 @@
 
 ## 推荐工具
 
-> ⚠️ **注意**：优先使用国内可用的工具。需要翻🔒的工具可能需要特殊网络环境。
+> ⚠️ **注意**：优先使用豆包和ChatGPT进行演示。需要翻🔒的工具可能需要特殊网络环境。
 
-### AI对话与写作（国内可用）
-- ⭐ [豆包](https://www.doubao.com/) - 字节跳动的AI助手，推荐！
-- ⭐ [Kimi](https://kimi.moonshot.cn/) - 月之暗面的AI助手
+### AI对话与写作（推荐）
+- ⭐ [豆包](https://www.doubao.com/) - 字节跳动AI助手，推荐首选！
+- ⭐ [ChatGPT](https://chat.openai.com/) - OpenAI智能对话助手，推荐首选！
+- ⭐ [Claude](https://claude.ai/) - Anthropic的AI助手，回答友好
+- [Kimi](https://kimi.moonshot.cn/) - 月之暗面的AI助手
 - [文心一言](https://yiyan.baidu.com/) - 百度的AI助手
 - [通义千问](https://tongyi.aliyun.com/) - 阿里的AI助手
-- 🔒 [ChatGPT](https://chat.openai.com/) - OpenAI的智能对话助手
-- 🔒 [Claude](https://claude.ai/) - Anthropic的AI助手
 
-### AI绘画与创作（国内可用）
-- ⭐ [豆包画图](https://www.doubao.com/) - 推荐，简单易用
+### AI绘画与创作（推荐）
+- ⭐ [豆包画图](https://www.doubao.com/) - 推荐首选，简单易用
+- ⭐ [ChatGPT (DALL-E)](https://chat.openai.com/) - 推荐首选
 - ⭐ [文心一格](https://yige.baidu.com/) - 百度AI画图
-- ⭐ [通义万相](https://tongyi.aliyun.com/) - 阿里AI画图
+- [通义万相](https://tongyi.aliyun.com/) - 阿里AI画图
 - [Canva AI](https://www.canva.com/) - AI设计工具
 - 🔒 [Midjourney](https://www.midjourney.com/) - 高质量AI绘画
-- 🔒 [DALL-E](https://openai.com/dall-e-3) - OpenAI文生图
 
 ### AI视频制作
 - ⭐ [剪映AI](https://www.capcut.cn/) - 智能视频剪辑，国内可用

@@ -4,14 +4,14 @@
 
 ## AI对话与写作工具
 
-### 💬 主流AI对话工具
+### 💬 主流AI对话工具（推荐优先使用）
 
 | 工具 | 特点 | 免费 | 链接 |
 |------|------|------|------|
-| ChatGPT | 最有名的AI助手，功能强大 | 部分免费 | https://chat.openai.com/ |
-| Claude | 回答友好，适合儿童 | 部分免费 | https://claude.ai/ |
-| 豆包 | 字节出品，中文好，国内访问快 | ✅ | https://www.doubao.com/ |
-| Kimi | 月之暗业，适合学习 | ✅ | https://kimi.moonshot.cn/ |
+| ⭐ 豆包 | 字节出品，中文好，国内访问快 | ✅ | https://www.doubao.com/ |
+| ⭐ ChatGPT | 最有名的AI助手，功能强大 | 部分免费 | https://chat.openai.com/ |
+| ⭐ Claude | 回答友好，适合儿童 | 部分免费 | https://claude.ai/ |
+| Kimi | 月之暗面，适合学习 | ✅ | https://kimi.moonshot.cn/ |
 | 文心一言 | 百度出品，中文能力强 | ✅ | https://yiyan.baidu.com/ |
 | 通义千问 | 阿里出品，功能丰富 | ✅ | https://tongyi.aliyun.com/ |
 | 智谱清言 | 智谱AI出品 | ✅ | https://chatglm.cn/ |
