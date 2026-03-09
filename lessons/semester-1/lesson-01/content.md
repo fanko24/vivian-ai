@@ -18,7 +18,7 @@
 
 **打开AI工具**：
 - 推荐使用：豆包 (https://www.doubao.com/)
-- 或者：ChatGPT、Claude
+- 或者：ChatGPT
 
 让Yanny自己输入：
 

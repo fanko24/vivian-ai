@@ -8,7 +8,7 @@
 
 ### 任务
 
-让Yanny打开ChatGPT/豆包/Claude，输入第一句话！
+让Yanny打开ChatGPT或豆包，输入第一句话！
 
 ### 输入内容
 
