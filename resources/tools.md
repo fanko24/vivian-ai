@@ -8,7 +8,7 @@
 
 | 工具 | 特点 | 免费 | 链接 |
 |------|------|------|------|
-| ⭐ ChatGPT | 字节出品，中文好，国内访问快 | ✅ | https://www.doubao.com/ |
+| ⭐ 豆包 | 字节出品，中文好，国内访问快 | ✅ | https://www.doubao.com/ |
 | ⭐ ChatGPT | 最有名的AI助手，功能强大 | 部分免费 | https://chat.openai.com/ |
 | ⭐ Claude | 回答友好，适合儿童 | 部分免费 | https://claude.ai/ |
 | Kimi | 月之暗面，适合学习 | ✅ | https://kimi.moonshot.cn/ |
@@ -22,7 +22,7 @@
 |------|------|------|
 | ChatGPT | 写作文、写故事、检查作业 | https://chat.openai.com/ |
 | Claude | 写作文、创意写作 | https://claude.ai/ |
-| ChatGPT写作 | 作文写作、故事创作 | https://www.doubao.com/ |
+| 豆包写作 | 作文写作、故事创作 | https://www.doubao.com/ |
 
 ---
 
@@ -32,7 +32,7 @@
 
 | 工具 | 特点 | 免费 | 链接 |
 |------|------|------|------|
-| ChatGPT画图 | 国内，中文好，简单易用 | ✅ | https://www.doubao.com/ (点击"画图") |
+| 豆包画图 | 国内，中文好，简单易用 | ✅ | https://www.doubao.com/ (点击"画图") |
 | 文心一格 | 百度出品，质量不错 | ✅ | https://yige.baidu.com/ |
 | 通义万相 | 阿里出品 | ✅ | https://wanxiang.aliyun.com/ |
 | DALL-E | OpenAI出品，质量最高 | ❌ | https://openai.com/dall-e-3 |
@@ -79,7 +79,7 @@
 | 工具 | 特点 | 链接 |
 |------|------|------|
 | ChatGPT语音版 | 语音对话 | https://chat.openai.com/ |
-| ChatGPT语音 | 中文语音 | https://www.doubao.com/ |
+| 豆包语音 | 中文语音 | https://www.doubao.com/ |
 | 小爱同学 | 小米智能音箱 | 小米设备 |
 | 天猫精灵 | 阿里智能音箱 | 阿里设备 |
 | 小度 | 百度智能音箱 | 百度设备 |
