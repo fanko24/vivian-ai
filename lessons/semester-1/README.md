@@ -36,7 +36,7 @@
 - [ ] 电脑或平板电脑
 - [ ] 手机（用于语音交互）
 - [ ] 网络连接
-- [ ] AI工具账号（推荐：[ChatGPT](https://chat.openai.com/)，备选：[豆包](https://www.doubao.com/)）
+- [ ] AI工具账号（推荐：[豆包](https://www.doubao.com/)）
 
 ### 材料准备
 - [ ] 作文本或纸张

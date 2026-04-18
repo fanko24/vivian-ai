@@ -12,7 +12,7 @@
 
 ## 准备清单
 - [ ] 电脑或平板（已联网）
-- [ ] ChatGPT（chat.openai.com）或豆包（doubao.com）已登录
+- [ ] 豆包（doubao.com）已登录
 - [ ] 家长陪伴
 
 ## 时间安排
@@ -25,5 +25,4 @@
 | 总结分享 | 5分钟 | 分享最有趣的对话 |
 
 ## 推荐工具
-- 主要：[ChatGPT](https://chat.openai.com/)
-- 备选：[豆包](https://www.doubao.com/)
+- [豆包](https://www.doubao.com/)（全平台免费）

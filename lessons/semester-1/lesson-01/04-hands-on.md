@@ -3,12 +3,11 @@
 ## 准备工作
 
 ### 第 1 步：打开 AI 工具
-1. 在浏览器中打开 ChatGPT 网站（或打开 APP）
+1. 打开豆包App或在浏览器中访问 doubao.com
 2. 登录你的账号
 3. 等待加载完成
 
-> 💡 推荐工具：ChatGPT https://chat.openai.com/  
-> 备选工具：豆包 https://www.doubao.com/、通义千问、Kimi
+> 💡 推荐工具：豆包 https://www.doubao.com/ （全平台免费使用）
 
 ### 第 2 步：开始对话
 1. 你会看到一个对话窗口
