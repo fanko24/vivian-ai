@@ -42,4 +42,4 @@ Claude Code 马上开始工作了。
 
 ---
 
-[下一节：知识小课堂 →](02-content.md)
+[下一节：动手实践 →](02-hands-on.md)
